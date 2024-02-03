@@ -1,7 +1,5 @@
-# hi_kod2_0_odev2
-
+# hi_kod2_0_odev2 
 A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
